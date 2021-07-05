@@ -1,0 +1,10 @@
+Jun 20 04:56:17 ip-172-31-45-208 kernel: acpi PNP0A03:00: _OSC failed (AE_NOT_FOUND); disabling ASPM
+Jun 20 04:57:19 ip-172-31-45-208 kdumpctl: Starting kdump: [FAILED]
+Jun 20 04:57:19 ip-172-31-45-208 systemd: Failed to start Crash recovery kernel arming.
+Jun 20 04:57:19 ip-172-31-45-208 systemd: Unit kdump.service entered failed state.
+Jun 20 04:57:19 ip-172-31-45-208 systemd: kdump.service failed.
+Jun 20 09:04:56 ip-172-31-45-208 kernel: acpi PNP0A03:00: _OSC failed (AE_NOT_FOUND); disabling ASPM
+Jun 20 09:05:07 ip-172-31-45-208 kdumpctl: Starting kdump: [FAILED]
+Jun 20 09:05:07 ip-172-31-45-208 systemd: Failed to start Crash recovery kernel arming.
+Jun 20 09:05:07 ip-172-31-45-208 systemd: Unit kdump.service entered failed state.
+Jun 20 09:05:07 ip-172-31-45-208 systemd: kdump.service failed.
